@@ -1,0 +1,3 @@
+rootProject.name='FastDownloader'
+include ':app'
+include ':fastdl'
